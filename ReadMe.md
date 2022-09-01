@@ -13,6 +13,5 @@ To use, take a screenshot of the wordle game, place it into the project director
 - [ ] Normalize images so resolution doesn't affect results
 - [ ] Add more error handling for when empty boxes are processed
 - [ ] Add commandline support for easier deployment
-- [ ] Add to telegram bot
-  - Figure out how to use Tesseract in Azure App Services or switch to Azure OCR
+- [x] Add to telegram bot
   
